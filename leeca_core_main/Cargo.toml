@@ -1,0 +1,10 @@
+[package]
+name = "leeca_core_main"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+thiserror = "1.0.65"
+clap = "4.5.20"
+config = "0.14.0"
+serde = "1.0.213"
